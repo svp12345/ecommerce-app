@@ -1,2 +1,2 @@
 # ecommerce-app
-Ecommerce website with crud operations created using MERN stack
+Ecommerce full-stack web application using MongoDB, Express, React, and Node.js.
